@@ -5,7 +5,7 @@
 1. ##### OOC - Out Of Character
      Dingen die je zegt OOC in de discord. Dingen die hier gezegd / gedaan worden horen NIET bij de RP en mag dus ook NIET in de RP gebruikt worden
 
-2. ##### IC - In Character
+2. ###### IC - In Character
      Dingen die je doet IC, in de stad en discord. Dingen die hier gezegd / gedaan worden horen bij de RPen mag dus ook in de RP gebruikt worden
 
 3. ##### VDM - Vehicle Deathmatch 
